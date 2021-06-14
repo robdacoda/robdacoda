@@ -1,3 +1,3 @@
-I’m currently working on FreeCodeCamp; navigating Github; Github profile
-I’m currently NOT learning markdown.  
+I’m currently working on FreeCodeCamp; navigating Github; editing Github profile.  <br>
+I’m currently NOT learning markdown.  <br>
 More later.  
