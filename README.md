@@ -2,7 +2,7 @@
 Working on FreeCodeCamp. <br>
 <br>
 
-[a link] (https://robdacoda.github.io/fcc_fel2_markdown_previewer)
+Markdown Previewer [a link] (https://robdacoda.github.io/fcc_fel2_markdown_previewer) is now broken.  
 
 <script>
   
